@@ -1,4 +1,4 @@
-<h1>Crea un programa que, a partir de una variable media, muestre la situación del estudiante según las reglas de la escuela</h1>
+<h1>Crear un programa que, a partir de una variable media, muestre la situación del estudiante según las reglas de la escuela</h1>
  
 <h3>Ejercicio</h3>
 
