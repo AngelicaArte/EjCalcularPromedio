@@ -13,9 +13,9 @@ public class PromedioEstudiante {
         if (media >=7.0){
             System.out.println("El estudiante fue aprobado con un promedio de: " + media);
         }else if (media >= 5.0 && media <= 6.9){
-            System.out.println("El estudiante esta recuperando tuvo este promedio " + media);
+            System.out.println("El estudiante esta recuperando tuvo este promedio: " + media);
         }else {
-            System.out.println("El estudiante reprobo");
+            System.out.println("El estudiante reprobó, sacó este promedio: " + media);
         }
 //Se usa operadores de comparación (>=) y estructura if / else if / else.
     scanner.close();
